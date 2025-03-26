@@ -15,7 +15,7 @@ app.get('/', (req, res) => {
         <!-- এখানে আপনার ভিডিও বা অ্যাডের লিঙ্ক দিন -->
         <script>
           setTimeout(() => {
-            window.location.href = "https://your-video-link.com";
+            window.location.href = "https://el.phncdn.com/gif/51630701.gif";
           }, 3000);
         </script>
       </body>
