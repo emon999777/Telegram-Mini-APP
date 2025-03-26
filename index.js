@@ -15,7 +15,18 @@ app.get('/', (req, res) => {
         <!-- এখানে আপনার ভিডিও বা অ্যাডের লিঙ্ক দিন -->
         <script>
           setTimeout(() => {
-            window.location.href = "https://el.phncdn.com/gif/51630701.gif";
+            window.location.href = "
+    // Rewarded Popup
+
+show_9137000('pop').then(() => {
+    // user watch ad till the end or close it in interstitial format
+    // your code to reward user for rewarded format
+}).catch(e => {
+    // user get error during playing ad
+    // do nothing or whatever you want
+})
+
+        ";
           }, 3000);
         </script>
       </body>
